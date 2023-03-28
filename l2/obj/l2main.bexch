@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__l2main.o
+[PROJECT FILES]
+/home/cat/Desktop/l2/l2.gpr
+20220926192109 6bef575c94ce46eeb319be51cf048a43
+[BOUND OBJECT FILES]
+/home/cat/Desktop/l2/obj/integer_containers.o
+/home/cat/Desktop/l2/obj/l2main.o
+[GENERATED SOURCE FILES]
+b__l2main.ads
+b__l2main.adb
+b__l2main.ali
+[RESULTING OPTIONS]
+-L/home/cat/Desktop/l2/obj/
+-L/home/cat/Desktop/l2/obj/
+-L/usr/lib/gcc/x86_64-redhat-linux/11/adalib/
+-static
+-lgnat
+-ldl

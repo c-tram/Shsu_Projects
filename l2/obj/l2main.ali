@@ -1,0 +1,75 @@
+V "GNAT Lib v11"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_ALLOCATORS
+RV NO_IO
+RV NO_LOCAL_ALLOCATORS
+RV NO_STANDARD_ALLOCATORS_AFTER_ELABORATION
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U l2main%b		l2main.adb		ef15b25f NE OO SU IL
+W ada%s			ada.ads			ada.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W integer_containers%s	integer_containers.adb	integer_containers.ali
+
+D ada.ads		20220421124021 76789da1 ada%s
+D a-except.ads		20220421124021 449c9b65 ada.exceptions%s
+D a-ioexce.ads		20220421124021 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20220421124021 119b8fb3 ada.streams%s
+D a-tags.ads		20220421124021 9eaa38c6 ada.tags%s
+D a-textio.ads		20220421124021 aef4d56d ada.text_io%s
+D a-unccon.ads		20220421124021 0e9b276f ada.unchecked_conversion%s
+D integer_containers.ads  20221003004949 e5f1849e integer_containers%s
+D interfac.ads		20220421124021 edec285f interfaces%s
+D i-cstrea.ads		20220421124021 e53d8b8e interfaces.c_streams%s
+D l2main.adb		20221003005354 a410e3ac l2main%b
+D system.ads		20220421124021 a2da961d system%s
+D s-crtl.ads		20220421124021 0ebbdb71 system.crtl%s
+D s-exctab.ads		20220421124021 54135002 system.exception_table%s
+D s-ficobl.ads		20220421124021 078245e4 system.file_control_block%s
+D s-parame.ads		20220421124021 4752c4cb system.parameters%s
+D s-secsta.ads		20220421124021 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20220421124021 a7318a92 system.soft_links%s
+D s-stache.ads		20220421124021 a37c21ec system.stack_checking%s
+D s-stalib.ads		20220421124021 0f2d51ff system.standard_library%s
+D s-stoele.ads		20220421124021 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20220421124021 ed88f8fb system.storage_elements%b
+D s-traent.ads		20220421124021 26a8d361 system.traceback_entries%s
+D s-wchcon.ads		20220421124021 1b7d22d2 system.wch_con%s
+G a e
+G c Z b b [l2main standard 5 11 none]
+G r s integer_container [l2main standard 5 11 none] [integer_containerIP integer_containers 18 14 none]
+G r c none [l2main standard 5 11 none] [insertfront integer_containers 7 19 none]
+G r c none [l2main standard 5 11 none] [insertrear integer_containers 9 19 none]
+G r c none [l2main standard 5 11 none] [printlist integer_containers 5 19 none]
+G r c none [l2main standard 5 11 none] [delete integer_containers 13 19 none]
+X 1 ada.ads
+16K9*Ada 20e8 11|1r6 1r23
+X 6 a-textio.ads
+58K13*Text_IO 728e16 11|1w10 1r27
+X 8 integer_containers.ads
+1K9*Integer_Containers 25e23 11|2w6 2r30 17r1 18r1 19r1 20r1 22r1 23r1 24r1
+. 25r1 26r1
+2R14*Integer_Container 21e19 11|7r34 8r31
+3P14*Integer_Node_Point(2R14) 11|7r8 8r5
+5U19*PrintList 11|21s1 27s1
+7U19*InsertFront 11|17s20 18s20 20s20 25s20
+9U19*InsertRear 11|19s20
+13U19*delete 11|22s20 23s20 24s20 26s20
+X 11 l2main.adb
+5U11*l2main 5b11 29l5 29t11
+7p1 Head{8|3P14} 17m32 17r32 18m32 18r32 19m31 19r31 20m32 20r32 21m11 21r11
+. 22m27 22r27 23m27 23r27 24m27 24r27 25m32 25r32 26m27 26r27 27m11 27r11
+8p1 R{8|3P14} 17m37 17r37 18m37 18r37 19m36 19r36 20m37 20r37 21m16 21r16
+. 22m32 22r32 23m32 23r32 24m32 24r32 25m37 25r37 26m32 26r32 27m16 27r16
+10i1 listSize{integer} 17m42 17r42 18m42 18r42 19m41 19r41 20m42 20r42 21r18
+. 22m34 22r34 23m34 23r34 24m34 24r34 25m42 25r42 26m34 26r34 27r18
+

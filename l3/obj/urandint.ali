@@ -1,0 +1,26 @@
+V "GNAT Lib v11"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U urandint%b		urandint.adb		4a2a5d5b NE OO PK GE IL
+
+U urandint%s		urandint.ads		2d500b4f BN EE NE OO PK GE IL
+
+D system.ads		20220421124021 a2da961d system%s
+D urandint.ads		20221116155102 2d500b4f urandint%s
+D urandint.adb		20221109202705 677a5614 urandint%b
+G a e
+G c Z s b [urandint standard 4 9 none]
+X 2 urandint.ads
+3i3 NumBits{integer} 3|10r37
+4k9*urandint 3z3 11l5 11e13 3|2b14 12l7 12t15
+9U13*InitialRandInteger 3|4b13 7l7 7t25
+10V12*UniqueRandInteger{integer} 3|9b12 11l6 11t23
+X 3 urandint.adb
+3i5 R{integer} 6m7 10m13 10r23 10r60
+

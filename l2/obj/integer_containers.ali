@@ -1,0 +1,186 @@
+V "GNAT Lib v11"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_ALLOCATORS
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_IO
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_LOCAL_ALLOCATORS
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_ASPECT_SPECIFICATIONS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U integer_containers%b	integer_containers.adb	ba564ef8 NE OO PK
+W ada%s			ada.ads			ada.ali
+Z ada.exceptions%s	a-except.adb		a-except.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z ada.text_io.generic_aux%s  a-tigeau.adb	a-tigeau.ali
+Z ada.text_io.integer_aux%s
+Z ada.text_io.integer_io%s
+W system%s		system.ads		system.ali
+Z system.img_biu%s	s-imgbiu.ads		s-imgbiu.ali
+Z system.img_int%s	s-imgint.ads		s-imgint.ali
+Z system.img_llb%s	s-imgllb.ads		s-imgllb.ali
+Z system.img_lli%s	s-imglli.ads		s-imglli.ali
+Z system.img_lllb%s	s-imglllb.ads		s-imglllb.ali
+Z system.img_llli%s	s-imgllli.ads		s-imgllli.ali
+Z system.img_lllw%s	s-imglllw.ads		s-imglllw.ali
+Z system.img_llw%s	s-imgllw.ads		s-imgllw.ali
+Z system.img_wiu%s	s-imgwiu.ads		s-imgwiu.ali
+Z system.val_int%s	s-valint.ads		s-valint.ali
+Z system.val_lli%s	s-vallli.ads		s-vallli.ali
+Z system.val_llli%s	s-valllli.ads		s-valllli.ali
+
+U integer_containers%s	integer_containers.ads	e5f1849e EE NE OO PK
+
+D ada.ads		20220421124021 76789da1 ada%s
+D a-except.ads		20220421124021 449c9b65 ada.exceptions%s
+D a-ioexce.ads		20220421124021 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20220421124021 119b8fb3 ada.streams%s
+D a-tags.ads		20220421124021 9eaa38c6 ada.tags%s
+D a-textio.ads		20220421124021 aef4d56d ada.text_io%s
+D a-tigeau.ads		20220421124021 e643cdf3 ada.text_io.generic_aux%s
+D a-tiinau.ads		20220421124021 1c79f78d ada.text_io.integer_aux%s
+D a-tiinau.adb		20220421124021 89004916 ada.text_io.integer_aux%b
+D a-tiinio.ads		20220421124021 390edddb ada.text_io.integer_io%s
+D a-tiinio.adb		20220421124021 b79731f4 ada.text_io.integer_io%b
+D a-unccon.ads		20220421124021 0e9b276f ada.unchecked_conversion%s
+D integer_containers.ads  20221003004949 e5f1849e integer_containers%s
+D integer_containers.adb  20221003005011 f1531f0b integer_containers%b
+D interfac.ads		20220421124021 edec285f interfaces%s
+D i-cstrea.ads		20220421124021 e53d8b8e interfaces.c_streams%s
+D system.ads		20220421124021 a2da961d system%s
+D s-crtl.ads		20220421124021 0ebbdb71 system.crtl%s
+D s-exctab.ads		20220421124021 54135002 system.exception_table%s
+D s-ficobl.ads		20220421124021 078245e4 system.file_control_block%s
+D s-imageb.ads		20220421124021 3953e0e6 system.image_b%s
+D s-imagei.ads		20220421124021 0d3f86a7 system.image_i%s
+D s-imagew.ads		20220421124021 9d2dd267 system.image_w%s
+D s-imgbiu.ads		20220421124021 0a8e1c41 system.img_biu%s
+D s-imgint.ads		20220421124021 bdb6f5ec system.img_int%s
+D s-imgllb.ads		20220421124021 47d0db9f system.img_llb%s
+D s-imglli.ads		20220421124021 3723d9ff system.img_lli%s
+D s-imglllb.ads		20220421124021 30212eed system.img_lllb%s
+D s-imgllli.ads		20220421124021 5cf3dc07 system.img_llli%s
+D s-imglllw.ads		20220421124021 9e2b0560 system.img_lllw%s
+D s-imgllw.ads		20220421124021 bf9c9c15 system.img_llw%s
+D s-imgwiu.ads		20220421124021 912a95f2 system.img_wiu%s
+D s-parame.ads		20220421124021 4752c4cb system.parameters%s
+D s-secsta.ads		20220421124021 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20220421124021 a7318a92 system.soft_links%s
+D s-stache.ads		20220421124021 a37c21ec system.stack_checking%s
+D s-stalib.ads		20220421124021 0f2d51ff system.standard_library%s
+D s-stoele.ads		20220421124021 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20220421124021 ed88f8fb system.storage_elements%b
+D s-traent.ads		20220421124021 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20220421124021 eea7525d system.unsigned_types%s
+D s-valint.ads		20220421124021 e7fcadb7 system.val_int%s
+D s-vallli.ads		20220421124021 0767e6f3 system.val_lli%s
+D s-valllli.ads		20220421124021 f758e795 system.val_llli%s
+D s-vallllu.ads		20220421124021 87566fa4 system.val_lllu%s
+D s-valllu.ads		20220421124021 660d930f system.val_llu%s
+D s-valuns.ads		20220421124021 dac7b45d system.val_uns%s
+D s-valuei.ads		20220421124021 978dd0a6 system.value_i%s
+D s-valueu.ads		20220421124021 7b8fccf5 system.value_u%s
+D s-wchcon.ads		20220421124021 1b7d22d2 system.wch_con%s
+G a e
+G c Z s b [printlist integer_containers 5 19 none]
+G c Z s b [insertfront integer_containers 7 19 none]
+G c Z s b [insertrear integer_containers 9 19 none]
+G c Z s b [finditem integer_containers 11 18 none]
+G c Z s b [delete integer_containers 13 19 none]
+G c Z s s [integer_containerIP integer_containers 18 14 none]
+G c Z b b [get integer_containers__integer_io 51 14 6_1]
+G c Z b b [get integer_containers__integer_io 59 14 6_1]
+G c Z b b [put integer_containers__integer_io 68 14 6_1]
+G c Z b b [put integer_containers__integer_io 80 14 6_1]
+G c Z b b [get integer_containers__integer_io 90 14 6_1]
+G c Z b b [put integer_containers__integer_io 97 14 6_1]
+G c Z b b [get integer_containers__integer_io__aux_int 52 14 48_4_6_1]
+G c Z b b [gets integer_containers__integer_io__aux_int 57 14 48_4_6_1]
+G c Z b b [put integer_containers__integer_io__aux_int 62 14 48_4_6_1]
+G c Z b b [puts integer_containers__integer_io__aux_int 68 14 48_4_6_1]
+G c Z b b [get integer_containers__integer_io__aux_lli 52 14 56_4_6_1]
+G c Z b b [gets integer_containers__integer_io__aux_lli 57 14 56_4_6_1]
+G c Z b b [put integer_containers__integer_io__aux_lli 62 14 56_4_6_1]
+G c Z b b [puts integer_containers__integer_io__aux_lli 68 14 56_4_6_1]
+G c Z b b [get integer_containers__integer_io__aux_llli 52 14 64_4_6_1]
+G c Z b b [gets integer_containers__integer_io__aux_llli 57 14 64_4_6_1]
+G c Z b b [put integer_containers__integer_io__aux_llli 62 14 64_4_6_1]
+G c Z b b [puts integer_containers__integer_io__aux_llli 68 14 64_4_6_1]
+X 1 ada.ads
+16K9*Ada 20e8 14|3r6 3r23 6r27
+X 6 a-textio.ads
+58K13*Text_IO 728e16 14|3w10 3r27 6r31
+265U14*New_Line 14|26s3
+466U14*Put 14|16s3 21s5 22s5
+X 10 a-tiinio.ads
+46k21*Integer_IO 108e27 14|6r39
+80U14 Put 14|17s3[6]
+X 13 integer_containers.ads
+1K9*Integer_Containers 18E14 25l5 25e23 14|4b14 196l5 196t23
+2R14*Integer_Container 3r43 18c14 21e19 14|12r30 36r14 80r14
+3P14*Integer_Node_Point(2R14) 5r39 5r69 7r41 7r71 9r41 9r71 11r38 11r82 13r36
+. 13r65 20r29 14|9r31 9r61 12r4 30r33 30r63 32r6 73r32 73r62 75r6 145r30
+. 145r77 150r28 150r58 152r5 153r5
+5U19*PrintList 5=29 5=59 5>89 14|9b11 28l5 28t14
+5p29 L{3P14} 14|9b21 17r7 18r10
+5p59 R{3P14} 14|9b51
+5i89 listSize{integer} 14|9b81 19r22
+7U19*InsertFront 7=31 7=61 7>91 7=108 7>141 14|30b11 71l5 71t16
+7p31 L{3P14} 14|30b23 39r17 40r17 41r7 42r7 43r7 46r18 47r7 54r18 55r7 56r17
+. 57r7 58r17 62r17 63r17 64r17 65r7
+7p61 R{3P14} 14|30b53 38r8 39r7 40r7 41r17 42r17 46r7 50r7
+7i91 amt{integer} 14|30b83 36r33 43r18 47r18 50r18 55r18
+7i108 currentListSize{integer} 14|30b100 44m7 44r26 45r11 48m7 48r26 49r11
+. 51m7 51r26 53r29 60m7 60r26 61r30 66m7 66r26
+7b141 choice{boolean} 14|30b133 45r35 49r35 53r11 61r11
+9U19*InsertRear 9=31 9=61 9>91 9=108 9>141 14|73b11 142l5 142t15
+9p31 L{3P14} 14|73b22 83r17 84r17 85r7 86r7 87r7 90r18 91r7 98r18 99r7 100r17
+. 101r7 102r17 104r17 105m7 105r12 112r18 113r7 114r17 115r7 116r17 118r17
+. 119m7 119r12
+9p61 R{3P14} 14|73b52 82r8 83r7 84r7 85r17 86r17 90r7 94r7 104r7 106m7 106r12
+. 118r7 120m7 120r12 130r18 131r7
+9i91 amt{integer} 14|73b82 80r33 87r18 91r18 94r18 99r18 113r18
+9i108 currentListSize{integer} 14|73b99 88m7 88r26 89r11 92m7 92r26 93r11
+. 95m7 95r26 97r29 109m7 109r26 110r30 136m7 136r26
+9b141 choice{boolean} 14|73b132 89r35 93r35 97r11 110r11
+11V18*findItem{3P14} 11=28 11>58 14|145b10 148l5 148t13
+11p28 L{3P14} 14|145b20
+11i58 aValue{integer} 14|145b50
+13U19*delete 13=26 13=55 13=85 13>112 14|150b11 194l5 194t11
+13p26 L{3P14} 14|150b18 162r8 166r8 168m7 168r12 169r17
+13p55 R{3P14} 14|150b48 169r7 182m7 182r12
+13i85 listSize{integer} 14|150b78 164r36 172r16 173m7 173r19 178r34 185r16
+. 186m7 186r19
+13i112 dp{integer} 14|150b105 166r18 178r18
+19i17*value{integer} 14|17r9 21r25 43m9 46m9 46r20 47m9 50m9 54m9 54r20 55m9
+. 87m9 90m9 90r20 91m9 94m9 98m9 98r20 99m9 112m9 112r20 113m9 125r23 130m9
+. 130r20 131m9 166r10 178r10
+20p17*next{3P14} 14|18r12 23r12 38r10 39m9 42m9 56m9 56r19 57m9 63m9 63r19
+. 65m9 82r10 83m9 86m9 100m9 100r19 101m9 104m9 105r14 106r14 114m9 114r19
+. 115m9 118m9 119r14 120r14 162r10 168r14 169m9 181m9 181r19 189r12
+20p23*prev{3P14} 14|40m9 41m9 58m9 62m9 64m9 84m9 85m9 102m9 116m9 123r14
+. 124r14 180r14 182r14
+X 14 integer_containers.adb
+6K9 Integer_IO[10|46] 7r5
+12p1 T{13|3P14} 18m5 21r23 23m5 23r10
+19i7 variable{integer}
+32p3 I{13|3P14} 36m5 54r7 56r7 57r17 58r7 62r7 63r7 64r7 65r17
+75p3 I{13|3P14} 80m5 98r7 100r7 101r17 102r7 112r7 114r7 115r17 116r7 123m7
+. 123r12 124m7 124r12 125r21 130r7
+76i3 savedValue{integer} 125m7 131r18
+152p1 S{13|3P14} 180m7 181r7
+153p1 T{13|3P14} 162m3 178r8 180r12 181r17 189m5 189r10
+154i1 index{integer} 160m3 164r27 172m7 178r25 185m7 190m5 190r14
+155b1 found{boolean} 159m3 164r9 171m7 184m7
+

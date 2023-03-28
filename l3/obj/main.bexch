@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/cat/Desktop/l3/l3.gpr
+20221109193655 c315c6ecbb17d1ab6c1a007eb29d4fc6
+[BOUND OBJECT FILES]
+/home/cat/Desktop/l3/obj/urandint.o
+/home/cat/Desktop/l3/obj/hashfun.o
+/home/cat/Desktop/l3/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/cat/Desktop/l3/obj/
+-L/home/cat/Desktop/l3/obj/
+-L/usr/lib/gcc/x86_64-redhat-linux/11/adalib/
+-static
+-lgnat
+-lm
+-ldl

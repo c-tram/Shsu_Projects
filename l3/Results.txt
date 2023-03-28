@@ -1,0 +1,150 @@
+================================
+Memory Type :  ONBOARD
+Probe Method:  RANDOM
+Hash Method :  SCRIPTKIDDY
+Key Number  :  102
+Capacity    :  80% FULL
+================================
+Offset Address  1 : Gurung           : Original Address  1 : Probes  1
+Offset Address  2 : Ajose            : Original Address  2 : Probes  1
+Offset Address  3 : Cook             : Original Address  3 : Probes  1
+Offset Address  4 : Egbe             : Original Address  4 : Probes  1
+Offset Address  5 : Zulfiqar         : Original Address  3 : Probes  2
+Offset Address  6 : Maiden           : Original Address  6 : Probes  1
+Offset Address  7 : Clark            : Original Address  5 : Probes  2
+Offset Address  8 : Robert           : Original Address  1 : Probes  3
+Offset Address  9 : Scott            : Original Address  7 : Probes  2
+Offset Address  10 : Arauza           : Original Address  10 : Probes  1
+Offset Address  11 : Crouch           : Original Address  11 : Probes  1
+Offset Address  12 : Davies           : Original Address  12 : Probes  1
+Offset Address  13 : Corey            : Original Address  11 : Probes  2
+Offset Address  14 : toluene          : Original Address  12 : Probes  2
+Offset Address  15 : Staple           : Original Address  13 : Probes  2
+Offset Address  16 : Fabulous         : Original Address  9 : Probes  3
+Offset Address  17 : Dugger           : Original Address  10 : Probes  3
+Offset Address  18 : Jeffrey          : Original Address  11 : Probes  3
+Offset Address  19 : prepossess       : Original Address  19 : Probes  1
+Offset Address  20 : Todd             : Original Address  18 : Probes  2
+Offset Address  21 : Casper           : Original Address  21 : Probes  1
+Offset Address  22 : NULL
+Offset Address  23 : James            : Original Address  21 : Probes  2
+Offset Address  24 : NULL
+Offset Address  25 : Red              : Original Address  25 : Probes  1
+Offset Address  26 : Acevedo          : Original Address  26 : Probes  1
+Offset Address  27 : Qamruddin        : Original Address  25 : Probes  2
+Offset Address  28 : Akhila           : Original Address  28 : Probes  1
+Offset Address  29 : orthodontist     : Original Address  29 : Probes  1
+Offset Address  30 : Salkowski        : Original Address  30 : Probes  1
+Offset Address  31 : NULL
+Offset Address  32 : Paschal          : Original Address  32 : Probes  1
+Offset Address  33 : NULL
+Offset Address  34 : Michael          : Original Address  2 : Probes  4
+Offset Address  35 : Joseph           : Original Address  35 : Probes  1
+Offset Address  36 : poison           : Original Address  4 : Probes  4
+Offset Address  37 : NULL
+Offset Address  38 : dactyl           : Original Address  6 : Probes  4
+Offset Address  39 : Wine             : Original Address  32 : Probes  3
+Offset Address  40 : Honor            : Original Address  40 : Probes  1
+Offset Address  41 : wet              : Original Address  48 : Probes  9
+Offset Address  42 : NULL
+Offset Address  43 : NULL
+Offset Address  44 : cauldron         : Original Address  44 : Probes  1
+Offset Address  45 : Nienberg         : Original Address  45 : Probes  1
+Offset Address  46 : sparse           : Original Address  46 : Probes  1
+Offset Address  47 : Christopher      : Original Address  47 : Probes  1
+Offset Address  48 : Carmona          : Original Address  48 : Probes  1
+Offset Address  49 : brutalize        : Original Address  49 : Probes  1
+Offset Address  50 : Octavio          : Original Address  48 : Probes  2
+Offset Address  51 : Adam             : Original Address  51 : Probes  1
+Offset Address  52 : ratiocination    : Original Address  45 : Probes  3
+Offset Address  53 : Bhandari         : Original Address  53 : Probes  1
+Offset Address  54 : inlet            : Original Address  47 : Probes  3
+Offset Address  55 : Wade             : Original Address  48 : Probes  3
+Offset Address  56 : Derek            : Original Address  56 : Probes  1
+Offset Address  57 : marsupial        : Original Address  28 : Probes  5
+Offset Address  58 : wince            : Original Address  58 : Probes  1
+Offset Address  59 : Eye              : Original Address  59 : Probes  1
+Offset Address  60 : Misogamist       : Original Address  53 : Probes  3
+Offset Address  61 : parasympathetic  : Original Address  32 : Probes  5
+Offset Address  62 : Constriction     : Original Address  62 : Probes  1
+Offset Address  63 : NULL
+Offset Address  64 : 1234567890123456 : Original Address  64 : Probes  1
+Offset Address  65 : NULL
+Offset Address  66 : Farral           : Original Address  64 : Probes  2
+Offset Address  67 : NULL
+Offset Address  68 : Vinnela          : Original Address  68 : Probes  1
+Offset Address  69 : live             : Original Address  62 : Probes  3
+Offset Address  70 : Irreversible     : Original Address  68 : Probes  2
+Offset Address  71 : magnetic         : Original Address  71 : Probes  1
+Offset Address  72 : Buck             : Original Address  72 : Probes  1
+Offset Address  73 : Veronica         : Original Address  66 : Probes  3
+Offset Address  74 : NULL
+Offset Address  75 : NULL
+Offset Address  76 : Kyle             : Original Address  76 : Probes  1
+Offset Address  77 : Dustin           : Original Address  77 : Probes  1
+Offset Address  78 : NULL
+Offset Address  79 : Cook             : Original Address  3 : Probes  8
+Offset Address  80 : rationalize      : Original Address  51 : Probes  5
+Offset Address  81 : NULL
+Offset Address  82 : Charles          : Original Address  82 : Probes  1
+Offset Address  83 : Perfect          : Original Address  83 : Probes  1
+Offset Address  84 : Jordon           : Original Address  84 : Probes  1
+Offset Address  85 : quandary         : Original Address  85 : Probes  1
+Offset Address  86 : Batbold          : Original Address  84 : Probes  2
+Offset Address  87 : Alcantara        : Original Address  87 : Probes  1
+Offset Address  88 : NULL
+Offset Address  89 : Daniels          : Original Address  87 : Probes  2
+Offset Address  90 : NULL
+Offset Address  91 : Fabricate        : Original Address  91 : Probes  1
+Offset Address  92 : NULL
+Offset Address  93 : mole             : Original Address  93 : Probes  1
+Offset Address  94 : Northwest        : Original Address  94 : Probes  1
+Offset Address  95 : Lisa             : Original Address  95 : Probes  1
+Offset Address  96 : Ellington        : Original Address  96 : Probes  1
+Offset Address  97 : Chris            : Original Address  97 : Probes  1
+Offset Address  98 : Joel             : Original Address  98 : Probes  1
+Offset Address  99 : cap              : Original Address  97 : Probes  2
+Offset Address  100 : Judy             : Original Address  100 : Probes  1
+Offset Address  101 : Finagle          : Original Address  94 : Probes  3
+Offset Address  102 : Fernando         : Original Address  102 : Probes  1
+Offset Address  103 : Yolk             : Original Address  96 : Probes  3
+Offset Address  104 : Syncopate        : Original Address  102 : Probes  2
+Offset Address  105 : Garza            : Original Address  105 : Probes  1
+Offset Address  106 : NULL
+Offset Address  107 : NULL
+Offset Address  108 : John             : Original Address  108 : Probes  1
+Offset Address  109 : Afterwards       : Original Address  109 : Probes  1
+Offset Address  110 : Jutty            : Original Address  110 : Probes  1
+Offset Address  111 : NULL
+Offset Address  112 : NULL
+Offset Address  113 : Screen           : Original Address  113 : Probes  1
+Offset Address  114 : Rush             : Original Address  114 : Probes  1
+Offset Address  115 : scat             : Original Address  48 : Probes  7
+Offset Address  116 : Matthew          : Original Address  116 : Probes  1
+Offset Address  117 : NULL
+Offset Address  118 : Aguirrie         : Original Address  118 : Probes  1
+Offset Address  119 : NULL
+Offset Address  120 : NULL
+Offset Address  121 : NULL
+Offset Address  122 : constrain        : Original Address  122 : Probes  1
+Offset Address  123 : Necromancer      : Original Address  116 : Probes  3
+Offset Address  124 : Person           : Original Address  95 : Probes  5
+Offset Address  125 : Kelly            : Original Address  125 : Probes  1
+Offset Address  126 : Under            : Original Address  126 : Probes  1
+Offset Address  127 : Clayton          : Original Address  127 : Probes  1
+Offset Address  128 : NULL
+================================
+Minimum Probes   :  1
+Maximum Probes   :  3
+Total Probes     :  39.00
+First 30 avg     :  1.30
+================================
+Minimum Probes   :  1
+Maximum Probes   :  9
+Total Probes     :  81.00
+Last 30 avg      :  2.70
+================================
+Total Probes     :  192
+Method avg       :  1.88
+Theoretical avg  :  2.00
+================================

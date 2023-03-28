@@ -1,0 +1,69 @@
+V "GNAT Lib v11"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U main%b		main.adb		15310747 NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W direct_io%s
+W hashfun%s		hashfun.adb		hashfun.ali
+
+D ada.ads		20220421124021 76789da1 ada%s
+D a-direio.ads		20220421124021 a93c9b31 ada.direct_io%s
+D a-except.ads		20220421124021 449c9b65 ada.exceptions%s
+D a-inteio.ads		20220421124021 f64b89a4 ada.integer_text_io%s
+D a-ioexce.ads		20220421124021 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20220421124021 119b8fb3 ada.streams%s
+D a-tags.ads		20220421124021 9eaa38c6 ada.tags%s
+D a-textio.ads		20220421124021 aef4d56d ada.text_io%s
+D a-tiflio.ads		20220421124021 fcca4daa ada.text_io.float_io%s
+D a-tiinio.ads		20220421124021 390edddb ada.text_io.integer_io%s
+D a-unccon.ads		20220421124021 0e9b276f ada.unchecked_conversion%s
+D directio.ads		20220421124021 d9b35108 direct_io%s
+D hashfun.ads		20221117211419 26c8557b hashfun%s
+D interfac.ads		20220421124021 edec285f interfaces%s
+D i-cstrea.ads		20220421124021 e53d8b8e interfaces.c_streams%s
+D main.adb		20221117224222 b2f55ffd main%b
+D system.ads		20220421124021 a2da961d system%s
+D s-crtl.ads		20220421124021 0ebbdb71 system.crtl%s
+D s-direio.ads		20220421124021 7c86ede3 system.direct_io%s
+D s-exctab.ads		20220421124021 54135002 system.exception_table%s
+D s-ficobl.ads		20220421124021 078245e4 system.file_control_block%s
+D s-parame.ads		20220421124021 4752c4cb system.parameters%s
+D s-secsta.ads		20220421124021 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20220421124021 a7318a92 system.soft_links%s
+D s-stache.ads		20220421124021 a37c21ec system.stack_checking%s
+D s-stalib.ads		20220421124021 0f2d51ff system.standard_library%s
+D s-stoele.ads		20220421124021 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20220421124021 ed88f8fb system.storage_elements%b
+D s-traent.ads		20220421124021 26a8d361 system.traceback_entries%s
+D s-wchcon.ads		20220421124021 1b7d22d2 system.wch_con%s
+D urandint.ads		20221116155102 2d500b4f urandint%s
+G a e
+G c Z b b [main standard 7 11 none]
+G r c none [main standard 7 11 none] [generatememhash hashfun 47 14 none]
+X 1 ada.ads
+16K9*Ada 20e8 16|3r6 3r34 4r6 4r31
+X 4 a-inteio.ads
+18K13*Integer_Text_IO[10|46] 16|4w10 4r35
+X 8 a-textio.ads
+58K13*Text_IO 728e16 16|3w10 3r38
+X 12 directio.ads
+24k17*Direct_IO 16|3w19
+X 13 hashfun.ads
+6K9*hashfun 59e12 16|5w6 5r19
+15n31*RANDOM{15E9} 16|17r39
+16n24*SCRIPTKIDDY{16E9} 16|17r47
+47U14*generateMemHash 16|17s3
+X 16 main.adb
+7U11*main 7b11 19l5 19t9
+
